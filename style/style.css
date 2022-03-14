@@ -1,12 +1,13 @@
 body{
     background-color: #2137;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
 }
 
 .container{
     background-color: #420;
     height: 200px;
     width: 200px;
-
 }
 
 #top{
