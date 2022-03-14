@@ -16,3 +16,8 @@ body{
 #top:hover{
     background-color: #2654ec;
 }
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: smaller;
+}
